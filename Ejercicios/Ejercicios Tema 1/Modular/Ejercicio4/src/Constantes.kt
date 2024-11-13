@@ -1,0 +1,1 @@
+val PRESENTACION = "te dice si el numero tiene decimales"
